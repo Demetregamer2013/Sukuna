@@ -1,0 +1,101 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.div1{
+    color: rgb(255, 0, 0);
+    background-color: rgb(230, 155, 155);
+    border: red solid 5px;
+    border-radius: 10px;
+    padding: 10px;
+  
+    width: 300px ;
+    
+
+    
+}
+
+
+.p1{
+    border: solid red 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.p2{
+    border: solid red 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.p3{
+    border:solid red 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+
+
+
+
+
+.div2{
+    color: rgb(9, 255, 0);
+    background-color: rgb(144, 196, 148);
+    border: rgb(30, 255, 0) dashed 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    width: 400px ;
+    
+}
+
+.p4{
+    border: dashed rgb(21, 255, 0) 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.p5{
+    border: dashed rgb(0, 255, 0) 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.p6{
+    border: dashed rgb(21, 255, 0) 5px;
+    border-radius:10px;
+    padding: 10px;
+}
+
+.div3{
+    color: rgb(183, 0, 255);
+    background-color: rgb(209, 155, 230);
+    border: rgb(204, 0, 255) solid 5px;
+    padding: 10px;
+    margin-top: 10px;
+    width: 200px ;
+    
+}
+
+.p7{
+    border: solid rgb(183, 0, 255) 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.p8{
+    border: solid rgb(183, 0, 255) 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.p9{
+    border: solid rgb(162, 0, 255) 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
